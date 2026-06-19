@@ -1,0 +1,20 @@
+
+UFO.png
+size: 1612,878
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 2
+  size: 875, 874
+  orig: 875, 874
+  offset: 0, 0
+  index: -1
+ufo
+  rotate: false
+  xy: 879, 243
+  size: 731, 633
+  orig: 731, 633
+  offset: 0, 0
+  index: -1

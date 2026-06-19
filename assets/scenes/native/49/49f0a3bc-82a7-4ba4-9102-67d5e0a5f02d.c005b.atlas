@@ -1,0 +1,34 @@
+
+chui-zi.png
+size: 301,1120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo1
+  rotate: false
+  xy: 2, 254
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+bo2
+  rotate: false
+  xy: 2, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+bo3
+  rotate: false
+  xy: 2, 506
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+chui
+  rotate: false
+  xy: 2, 758
+  size: 297, 360
+  orig: 297, 360
+  offset: 0, 0
+  index: -1

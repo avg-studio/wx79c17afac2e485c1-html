@@ -1,0 +1,41 @@
+
+ai-xin.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 116, 53
+  size: 78, 72
+  orig: 80, 74
+  offset: 1, 1
+  index: -1
+d
+  rotate: false
+  xy: 2, 23
+  size: 112, 102
+  orig: 114, 104
+  offset: 1, 1
+  index: -1
+f
+  rotate: false
+  xy: 173, 8
+  size: 46, 43
+  orig: 48, 45
+  offset: 1, 1
+  index: -1
+g
+  rotate: false
+  xy: 116, 2
+  size: 55, 49
+  orig: 57, 51
+  offset: 1, 1
+  index: -1
+s
+  rotate: false
+  xy: 196, 55
+  size: 69, 70
+  orig: 71, 72
+  offset: 1, 1
+  index: -1
